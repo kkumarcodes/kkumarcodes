@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=wuyuebiz.wureadme)
+![](https://visitor-badge.glitch.me/badge?page_id=wuyuebiz.wuyuebiz)
 
 <br />
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Solid experience in ether.js, terra.js, web3.js, solana web3.js, react/vue/typescript.
 Strong experience in ERC721, ERC1155, HRC721, BEP721, BEP20, CW20, CW721, Metaplex and Anchor.
 
-<img align="right" alt="GIF" src="https://github.com/wuyuebiz/wureadme/blob/main/images/code.gif?raw=true" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/wuyuebiz/wuyuebiz/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
 ### 👯 Built NFT projects like Minting, Staking, Breeding, Mutex(Evolution), Marketplace, Launchpad, Utility Token creation, ICO/IDO on EVM & Solana & Terra
 ### Built DEXs, DAO on EVM, Terra and Solana
