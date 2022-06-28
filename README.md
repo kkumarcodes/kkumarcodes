@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 <br />
 
-🔭 Hi, I'm a passionate Full Stack block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+🔭 Hi, I'm a passionate Full Stack/block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
+🌱 Great experience in developing react, vue, node and python.
+🌱 Strong experience in SQL and CSS3.
 🌱 Great experience in building smart contract on EVM, Terra, and Solana with Solidity and Rust.
 Solid experience in ether.js, terra.js, web3.js, solana web3.js, react/vue/typescript.
 Strong experience in ERC721, ERC1155, HRC721, BEP721, BEP20, CW20, CW721, Metaplex and Anchor.
