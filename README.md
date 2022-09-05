@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/wuyuebiz/wuyuebiz/blob/main/images/code.gif?raw=true" width="450" height="320" />
     
-- 💼 Any freelance work? Do reach, [email:wuyuebiz@gmail.com](mailto:wuyuebiz@gmail.com) :)
+- 💼 Any freelance work? Do reach, [email:dragon87111@gmail.com](mailto:dragon87111@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
