@@ -1,5 +1,5 @@
 <!--
-**wuyuebiz/wuyuebiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tamarae22/tamarae22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,18 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=wuyuebiz.wuyuebiz)
+![](https://visitor-badge.glitch.me/badge?page_id=tamarae22.tamarae22)
 
 <br />
 
-🔭 Hi, I'm a passionate Full Stack/block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+🔭 Hi, I'm a passionate Full Stack developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 🌱 Great experience in developing react, vue, node and python.
 🌱 Strong experience in SQL and CSS3.
 
-<img align="right" alt="GIF" src="https://github.com/wuyuebiz/wuyuebiz/blob/main/images/code.gif?raw=true" width="450" height="320" />
-    
-- 💼 Any freelance work? Do reach, [email:dragon87111@gmail.com](mailto:dragon87111@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
@@ -42,9 +39,9 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text                                                                                                       
-JSX           7 hrs   ██████░░░░░░░░░░░░░░░░░░░   15.2 % 
+Python           7 hrs██████░░░░░░░░░░░░░░░░░░░   15.2 % 
 TypeScript   16 hrs   ██████████████░░░░░░░░░░░   34.7 % 
-Rust         21 hrs   █████████████████░░░░░░░░   45.6 % 
+Javascript     21 hrs █████████████████░░░░░░░░   45.6 % 
 SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░░░░░░░   04.5 % 
 ```
 <!--END_SECTION:waka-->
@@ -87,7 +84,7 @@ SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░�
 
 📈 My GitHub Stats
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=wuyuebiz&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuyuebiz&layout=compact&theme=monokai&count_private=true">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=tamarae22&sshow_icons=true&theme=gotham&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamarae22&layout=compact&theme=monokai&count_private=true">
 </p>
 
