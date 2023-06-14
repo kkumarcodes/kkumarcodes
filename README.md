@@ -84,7 +84,7 @@ SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░�
 
 📈 My GitHub Stats
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=tamarae22&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamarae22&layout=compact&theme=monokai&count_private=true">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=kkumarcodes&sshow_icons=true&theme=gotham&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkumarcodes&layout=compact&theme=monokai&count_private=true">
 </p>
 
