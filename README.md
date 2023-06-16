@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ```text                                                                                                       
 Python           7 hrs██████░░░░░░░░░░░░░░░░░░░   15.2 % 
 TypeScript   16 hrs   ██████████████░░░░░░░░░░░   34.7 % 
-Javascript     21 hrs █████████████████░░░░░░░░   45.6 % 
-SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░░░░░░░   04.5 % 
+Javascript     21 hrs █████████████████░░░░░░░░   40.6 % 
+SCSS          10 hrs   ██▒▒░░░░░░░░░░░░░░░░░░░░░   10.5 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -74,16 +74,4 @@ SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░�
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-
-
-
-
-##
-
-
-📈 My GitHub Stats
-<p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=kkumarcodes&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkumarcodes&layout=compact&theme=monokai&count_private=true">
-</p>
 
