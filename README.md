@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 Hi, I'm a passionate Full Stack developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-🌱 Great experience in developing react, vue, node and python.
+🌱 Great experience in developing react/react-native, vue, node and python.
 🌱 Strong experience in SQL and CSS3.
 
 - 💬 Ask me about anything, I am happy to help;
