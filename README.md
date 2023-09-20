@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ```text                                                                                                       
 Python           7 hrs ██████░░░░░░░░░░░░░░░░░░░   15.2 % 
-TypeScript      16 hrs ██████████████░░░░░░░░░░░   34.7 % 
-Javascript      21 hrs █████████████████░░░░░░░░   40.6 % 
-SCSS            10 hrs ██▒▒░░░░░░░░░░░░░░░░░░░░░   10.5 % 
+SCSS            16 hrs ██████████████░░░░░░░░░░░   34.7 % 
+Javascript      20 hrs █████████████████░░░░░░░░   40.6 % 
+TypeScript       5 hrs ██▒▒░░░░░░░░░░░░░░░░░░░░░   10.5 % 
 ```
 <!--END_SECTION:waka-->
 
