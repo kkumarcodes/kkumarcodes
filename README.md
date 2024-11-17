@@ -1,28 +1,23 @@
-<!--
-**tamarae22/tamarae22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
+Welcome to my GitHub profile!  
 ![](https://visitor-badge.glitch.me/badge?page_id=tamarae22.tamarae22)
 
-<br />
+---
 
-🔭 Hi, I'm a passionate Full Stack developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+## 🚀 About Me
+Hi, I'm a passionate **Full Stack Developer** and **Mathematician** who loves turning ideas into reality with elegant interfaces and robust backend systems. I take great care in crafting high-quality code, scalable architecture, and delightful user experiences.
 
-🌱 Great experience in developing react/react-native, vue, node and python.
-🌱 Strong experience in SQL and CSS3.
+### 👩‍💻 What I do:
+- Develop dynamic and scalable web/mobile applications using modern technologies.
+- Specialize in frameworks like React, Vue, and React Native.
+- Extensive experience in backend systems using Node.js, Python, and PHP.
+- Proficient in database management, from SQL to NoSQL solutions.
 
-- 💬 Ask me about anything, I am happy to help;
+### 🌱 Currently Learning:
+- Advanced Machine Learning concepts.
+- Expanding my cloud computing expertise in AWS and Google Cloud.
+
+---
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
